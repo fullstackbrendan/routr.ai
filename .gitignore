@@ -31,6 +31,7 @@ share/python-wheels/
 *.pot
 *.pyc
 db.sqlite3
+settings.py
 
 # PyCharm project settings
 .idea/
