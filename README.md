@@ -6,7 +6,7 @@ Routr.ai (https://www.routr.ai), built with Django, Python and HTML, is designed
 
 ## Screenshots
 
-![App Screenshot]<img width="1440" alt="Screenshot 2024-08-03 at 3 18 05 PM" src="https://github.com/user-attachments/assets/0a15bcb9-a5e8-42d2-aefa-fb6f35bbf033">
+<img width="1440" alt="Screenshot 2024-08-03 at 3 18 05 PM" src="https://github.com/user-attachments/assets/0a15bcb9-a5e8-42d2-aefa-fb6f35bbf033">
 
 
 ## Features
