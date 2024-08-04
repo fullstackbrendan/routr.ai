@@ -1,7 +1,7 @@
 
 # Routr.ai
 
-Routr.ai ~ https://www.routr.ai ~ built with Django, Python and HTML, is designed to manage, track, and report driver trip and fuel purchase records. It utilizes OpenAI’s API to integrate AI-driven route calculations and geolocation services, optimizing transportation logistics and fuel management.
+Routr.ai ~ www.routr.ai ~ built with Django, Python and HTML, is designed to manage, track, and report driver trip and fuel purchase records. It utilizes OpenAI’s API to integrate AI-driven route calculations and geolocation services, optimizing transportation logistics and fuel management.
 
 
 ## Screenshots
