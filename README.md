@@ -21,14 +21,14 @@ Routr.ai ~ https://www.routr.ai ~ built with Django, Python and HTML, is designe
 
 
 ## Tech Stack
-
-**Backend:** Django, Python
-
-**Frontend:** HTML
-
-**APIs:** OpenAI API
-
-**Database:** SQLite (development), PostgreSQL (production)
+	
+	**Backend:** Django, Python
+	
+	**Frontend:** HTML
+	
+	**APIs:** OpenAI API
+	
+	**Database:** SQLite (development), PostgreSQL (production)
 
 
 ## Installation
